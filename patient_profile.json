@@ -1,0 +1,14 @@
+{
+  "age": 43.0,
+  "anaemia": 0.0,
+  "creatinine_phosphokinase": 250.0,
+  "diabetes": 1.0,
+  "ejection_fraction": 30.0,
+  "high_blood_pressure": 1.0,
+  "platelets": 250000.0,
+  "serum_creatinine": 1.6,
+  "serum_sodium": 135.0,
+  "sex": 0.0,
+  "smoking": 1.0,
+  "time": 20.0
+}
