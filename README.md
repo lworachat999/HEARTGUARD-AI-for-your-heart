@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10debd9a-4708-40a0-91bd-d7df8d76cc6f" /># 🫀 HeartGuard - AI-Powered Smart Cardiac Companion
+# 🫀 HeartGuard - AI-Powered Smart Cardiac Companion
 
 **HeartGuard** is an AI-driven healthcare application designed to predict **heart failure risk** using machine learning, explainable AI, and simulated IoT data integration.  
 It is a **desktop software** (not a web app) built with **Python, PyTorch, and PyQt5**, and is designed to be **patent-ready** under the Indian Patent Act (hardware–software linkage).
@@ -48,32 +48,7 @@ It bridges the gap between **predictive modeling**, **explainable decision suppo
 - Smooth screen transitions and animations.
 - Chatbot-like “Health Assistant” for conversational risk analysis.
 
-HeartGuard_Repo/
-│
-├── src/
-│ ├── data/ # Synthetic data generation scripts
-│ │ └── generate_synthetic.py
-│ ├── models/ # PyTorch model + training/inference
-│ │ ├── model.py
-│ │ ├── train.py
-│ │ └── infer.py
-│ ├── ui/ # CLI / PyQt interface
-│ │ └── run_app.py
-│ ├── personalize.py # Personalized baseline updater
-│ ├── explain.py # Explainable AI utilities
-│ └── init.py
-│
-├── data/ # Synthetic data, scaler, profiles
-│
-├── docs/
-│ └── quickstart.md # Documentation
-│
-├── tests/
-│ └── test_basic.py
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
+---
 
 📊 Model Performance (on Synthetic Data)
 Metric	Score
@@ -81,7 +56,3 @@ Accuracy	87%
 Precision	0.86
 Recall	0.88
 ROC-AUC	0.92
-
-
-## 🧩 Sysm Architecture
-
